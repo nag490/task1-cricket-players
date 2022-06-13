@@ -1,9 +1,9 @@
 # task1-cricket-players
 Environmnet Tested: 
 
-	Python Version : 
-	Operating : 
-	Unitrest Framework : 
+	Python Version : 3.10 
+	Operating :windows11
+	Test Framework : Unittest framework
 	
 
 Note: This code will run independent of any python version and operating system 
